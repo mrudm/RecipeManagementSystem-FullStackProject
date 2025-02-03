@@ -1,0 +1,14 @@
+.navbar-fixed {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1030; /* Ensure it stays above other content */
+  }
+  
+  .ml-auto {
+    margin-left: auto; /* Pushs the Add Recipe button to the right */
+  }
+  
+  .btn-primary {
+    margin-left: 10px; /* Optional: add some margin for spacing */
+  }
